@@ -10,7 +10,7 @@ This is from the frist episode in the tutorial series, where we go over some set
 
 Video Link - 
 
-Full Tutorial Playlist - 
+Full Tutorial Playlist - https://www.youtube.com/playlist?list=PLLiW_1PGMIYKG_f10jwwD8D2d6RnKALv6
 
 ## Unity Version
 
