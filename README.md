@@ -2,6 +2,8 @@
 
 This is a in depth tutorial on how to make a top down 2D zombie shooter in the Unity Game Engine.
 
+![ZombieScrapperBanner](https://user-images.githubusercontent.com/108351496/176287761-2d5b7ab6-6aa6-4258-8dd2-604121be1591.png)
+
 ## Episode 1
 
 This is from the frist episode in the tutorial series, where we go over some setup, player movement, and rotation.
