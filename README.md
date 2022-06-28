@@ -1,4 +1,4 @@
-# Zombie-Shooter-Tutorial
+# Zombie Shooter Tutorial
 
 This is a in depth tutorial on how to make a top down 2D zombie shooter in the Unity Game Engine.
 
