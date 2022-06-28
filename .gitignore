@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Zombie Shooter Tutorial/[Ll]ibrary/
+Zombie Shooter Tutorial/[Tt]emp/
+Zombie Shooter Tutorial/[Oo]bj/
+Zombie Shooter Tutorial/[Bb]uild/
+Zombie Shooter Tutorial/[Bb]uilds/
+Zombie Shooter Tutorial/[Ll]ogs/
+Zombie Shooter Tutorial/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
